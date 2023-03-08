@@ -1,4 +1,5 @@
 export interface Voiture{
 	plaque : string,
-	roues : number
+	roues : number,
+	conducteur : string
 }
